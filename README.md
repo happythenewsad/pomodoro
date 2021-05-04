@@ -1,3 +1,7 @@
+Description
+======
+A command-line productivity timer that audibly alerts the user after a specified elapsed time.
+
 Installation
 ======
 ```shell
